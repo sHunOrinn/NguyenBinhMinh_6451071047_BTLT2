@@ -58,9 +58,9 @@ class MenuScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'DANH SÁCH MÓN ĂN',
+          'DANH SÁCH MÓN ĂN - Nguyễn Bình Minh - 6451071047',
           style: TextStyle(
-            fontSize: 18,
+            fontSize: 14,
             fontWeight: FontWeight.bold,
           ),
         ),
